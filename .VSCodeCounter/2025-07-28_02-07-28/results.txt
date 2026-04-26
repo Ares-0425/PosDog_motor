@@ -1,0 +1,42 @@
+Date : 2025-07-28 02:07:28
+Directory : e:\OneDrive\vscode\zyudou\simpleFOC_CAN_DOB
+Total : 11 files,  719 codes, 232 comments, 177 blanks, all 1128 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |          5 |        638 |        223 |        149 |      1,010 |
+| Markdown |          4 |         68 |          0 |         26 |         94 |
+| Ini      |          1 |         12 |          9 |          2 |         23 |
+| JSON     |          1 |          1 |          0 |          0 |          1 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                              |         11 |        719 |        232 |        177 |      1,128 |
+| . (Files)                                                                                      |          1 |         12 |          9 |          2 |         23 |
+| .VSCodeCounter                                                                                 |          5 |         69 |          0 |         26 |         95 |
+| .VSCodeCounter\2025-07-28_02-06-57                                                             |          5 |         69 |          0 |         26 |         95 |
+| src                                                                                            |          5 |        638 |        223 |        149 |      1,010 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                       | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| e:\OneDrive\vscode\zyudou\simpleFOC_CAN_DOB\.VSCodeCounter\2025-07-28_02-06-57\details.md      | Markdown |         26 |          0 |          6 |         32 |
+| e:\OneDrive\vscode\zyudou\simpleFOC_CAN_DOB\.VSCodeCounter\2025-07-28_02-06-57\diff-details.md | Markdown |          9 |          0 |          6 |         15 |
+| e:\OneDrive\vscode\zyudou\simpleFOC_CAN_DOB\.VSCodeCounter\2025-07-28_02-06-57\diff.md         | Markdown |         12 |          0 |          7 |         19 |
+| e:\OneDrive\vscode\zyudou\simpleFOC_CAN_DOB\.VSCodeCounter\2025-07-28_02-06-57\results.json    | JSON     |          1 |          0 |          0 |          1 |
+| e:\OneDrive\vscode\zyudou\simpleFOC_CAN_DOB\.VSCodeCounter\2025-07-28_02-06-57\results.md      | Markdown |         21 |          0 |          7 |         28 |
+| e:\OneDrive\vscode\zyudou\simpleFOC_CAN_DOB\platformio.ini                                     | Ini      |         12 |          9 |          2 |         23 |
+| e:\OneDrive\vscode\zyudou\simpleFOC_CAN_DOB\src\can.cpp                                        | C++      |         62 |          4 |         14 |         80 |
+| e:\OneDrive\vscode\zyudou\simpleFOC_CAN_DOB\src\can.hpp                                        | C++      |         17 |          2 |          5 |         24 |
+| e:\OneDrive\vscode\zyudou\simpleFOC_CAN_DOB\src\dob.cpp                                        | C++      |        118 |         51 |         38 |        207 |
+| e:\OneDrive\vscode\zyudou\simpleFOC_CAN_DOB\src\dob.hpp                                        | C++      |         41 |          7 |         10 |         58 |
+| e:\OneDrive\vscode\zyudou\simpleFOC_CAN_DOB\src\main.cpp                                       | C++      |        400 |        159 |         82 |        641 |
+| Total                                                                                          |          |        719 |        232 |        177 |      1,128 |
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

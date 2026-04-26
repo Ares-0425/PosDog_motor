@@ -1,0 +1,48 @@
+Date : 2025-07-28 02:06:57
+Directory : e:\OneDrive\vscode\zyudou\M5-controll
+Total : 17 files,  1201 codes, 63 comments, 196 blanks, all 1460 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         11 |      1,120 |         54 |        165 |      1,339 |
+| Markdown |          4 |         59 |          0 |         26 |         85 |
+| Ini      |          1 |         21 |          9 |          5 |         35 |
+| JSON     |          1 |          1 |          0 |          0 |          1 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                     | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                        |         17 |      1,201 |         63 |        196 |      1,460 |
+| . (Files)                                                                                |          1 |         21 |          9 |          5 |         35 |
+| .VSCodeCounter                                                                           |          5 |         60 |          0 |         26 |         86 |
+| .VSCodeCounter\2025-07-28_02-06-30                                                       |          5 |         60 |          0 |         26 |         86 |
+| src                                                                                      |         11 |      1,120 |         54 |        165 |      1,339 |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                 | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| e:\OneDrive\vscode\zyudou\M5-controll\.VSCodeCounter\2025-07-28_02-06-30\details.md      | Markdown |         21 |          0 |          6 |         27 |
+| e:\OneDrive\vscode\zyudou\M5-controll\.VSCodeCounter\2025-07-28_02-06-30\diff-details.md | Markdown |          9 |          0 |          6 |         15 |
+| e:\OneDrive\vscode\zyudou\M5-controll\.VSCodeCounter\2025-07-28_02-06-30\diff.md         | Markdown |         12 |          0 |          7 |         19 |
+| e:\OneDrive\vscode\zyudou\M5-controll\.VSCodeCounter\2025-07-28_02-06-30\results.json    | JSON     |          1 |          0 |          0 |          1 |
+| e:\OneDrive\vscode\zyudou\M5-controll\.VSCodeCounter\2025-07-28_02-06-30\results.md      | Markdown |         17 |          0 |          7 |         24 |
+| e:\OneDrive\vscode\zyudou\M5-controll\platformio.ini                                     | Ini      |         21 |          9 |          5 |         35 |
+| e:\OneDrive\vscode\zyudou\M5-controll\src\can.cpp                                        | C++      |         59 |          6 |         12 |         77 |
+| e:\OneDrive\vscode\zyudou\M5-controll\src\can.hpp                                        | C++      |         26 |          2 |          5 |         33 |
+| e:\OneDrive\vscode\zyudou\M5-controll\src\control.cpp                                    | C++      |        803 |         28 |         98 |        929 |
+| e:\OneDrive\vscode\zyudou\M5-controll\src\control.hpp                                    | C++      |         19 |          2 |          4 |         25 |
+| e:\OneDrive\vscode\zyudou\M5-controll\src\display.cpp                                    | C++      |         45 |          0 |          6 |         51 |
+| e:\OneDrive\vscode\zyudou\M5-controll\src\display.hpp                                    | C++      |         11 |          2 |          5 |         18 |
+| e:\OneDrive\vscode\zyudou\M5-controll\src\imu.cpp                                        | C++      |         68 |         14 |         23 |        105 |
+| e:\OneDrive\vscode\zyudou\M5-controll\src\imu.hpp                                        | C++      |         13 |          0 |          3 |         16 |
+| e:\OneDrive\vscode\zyudou\M5-controll\src\main.cpp                                       | C++      |         73 |          0 |          7 |         80 |
+| e:\OneDrive\vscode\zyudou\M5-controll\src\sd.cpp                                         | C++      |          0 |          0 |          1 |          1 |
+| e:\OneDrive\vscode\zyudou\M5-controll\src\sd.hpp                                         | C++      |          3 |          0 |          1 |          4 |
+| Total                                                                                    |          |      1,201 |         63 |        196 |      1,460 |
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
